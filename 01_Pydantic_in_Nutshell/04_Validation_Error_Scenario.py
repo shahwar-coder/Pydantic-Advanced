@@ -1,8 +1,6 @@
 '''SCENARIO BASED QUESTION - Validation Error Raised'''
 """import pydantic
 
-# print(pydantic.VERSION) # 2.12.5
-
 from pydantic import BaseModel, EmailStr
 
 class User(BaseModel):
@@ -16,6 +14,8 @@ print(f"User Object : {user}")
 print(f"User Name : {user.name}")
 print(f"User Age : {user.age}")
 print(f"User Email : {user.email}")"""
+
+# -=-=-=-=-=
 
 '''
 Scenario-Based Interview Q&A (Pydantic Validation Error)
